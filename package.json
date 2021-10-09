@@ -14,11 +14,11 @@
     "next": "^11.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-infinite-scroll-component": "^6.1.0"
+    "react-infinite-scroll-component": "^6.1.0",
+    "tailwindcss": "^2.2.16"
   },
   "devDependencies": {
     "postcss": "^8.2.15",
-    "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^2.2.16"
+    "postcss-preset-env": "^6.7.0"
   }
 }
