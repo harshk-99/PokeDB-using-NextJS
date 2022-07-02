@@ -5,7 +5,7 @@ export default function Home({ pokemon }) {
 
   return (
     <Layout title="Pokemon Database">
-      <h1 className="text-4xl mb-8 text-center">Poke-search</h1>
+      <h1 className="text-4xl mb-8 text-center">Poke-search created by Poke-Handler</h1>
       <Main pokemon={pokemon}></Main>
     </Layout>
   )
